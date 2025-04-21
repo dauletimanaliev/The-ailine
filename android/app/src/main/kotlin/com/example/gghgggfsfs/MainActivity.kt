@@ -6,7 +6,6 @@ import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity : FlutterActivity()
 
-
 class MainApplication : Application() {
     override fun onCreate() {
         super.onCreate()
